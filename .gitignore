@@ -1,0 +1,4 @@
+data/
+demo_data/
+__pycache__/
+*.tmp
